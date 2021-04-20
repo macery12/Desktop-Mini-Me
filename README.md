@@ -1,11 +1,4 @@
 # Desktop-Mini-Me
-
-Avatar Transform: 7.22, -4.99, 3.89
-
-Avatar Scale 2, 2, 2
-
-
-
 Im going to continue to improve and update the export script but for now i tried to make it as simple and effort free as possible.
 
 
